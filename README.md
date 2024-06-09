@@ -10,6 +10,7 @@ I'm a pationate data engineer with a keen interest in automation. I find joy cre
   <img src="https://github.com/dd288/dd288/blob/main/icons/linux-original.svg" width="70" height="70" />
   <img src="https://github.com/dd288/dd288/blob/main/icons/postgresql-original.svg" width="70" height="70" />
   <img src="https://github.com/dd288/dd288/blob/main/icons/vscode-original.svg" width="70" height="70" />
+  <img src="https://github.com/dd288/dd288/blob/main/icons/Apache_Spark_logo.svg.png" width="70" height="70" />
 </p>
 <!--
 **dd288/dd288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

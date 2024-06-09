@@ -2,7 +2,7 @@
 I'm a pationate data engineer with a keen interest in automation. I find joy creating data pipelines to solve real-world problems.
 
 ## :hammer: My Toolbox
-<img src="https://github.com/dd288/dd288/blob/main/icons/pandas-original-wordmark.svg" width="10" height="100" />
+<img src="https://github.com/dd288/dd288/blob/main/icons/pandas-original-wordmark.svg" width="100" height="100" />
 <!--
 **dd288/dd288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate data engineer with a keen interest in automation. I find joy in creating data pipelines to solve real-world problems.
+I'm a passionate engineer with a keen interest in automation. I find joy in creating data pipelines to solve real-world problems.
 
 ## :hammer: My Toolbox
 <p>
